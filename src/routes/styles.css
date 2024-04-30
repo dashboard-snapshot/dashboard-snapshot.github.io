@@ -5,10 +5,6 @@
   font-size: 1rem;
 }
 
-* {
-	font-family: var(--sanserif);
-}
-
 html, body {
 	position: relative;
 	width: 100%;

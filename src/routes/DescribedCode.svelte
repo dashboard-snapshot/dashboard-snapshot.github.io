@@ -14,8 +14,7 @@
 
 <style>
   .line,
-  code,
-  code * {
+  code {
     font-family: var(--monospace), monospace !important;
   }
   @media screen and (min-width: 951px) {
@@ -102,12 +101,15 @@
     }
     :global(code entity) {
       color: #2962ff;
+      font-family: var(--monospace), monospace !important;
     }
     :global(code type) {
       color: #00c853;
+      font-family: var(--monospace), monospace !important;
     }
     :global(code literal) {
       color: #ff6d00;
+      font-family: var(--monospace), monospace !important;
     }
   }
   /* darkmode */
@@ -117,12 +119,15 @@
     }
     :global(code entity) {
       color: #82b1ff;
+      font-family: var(--monospace), monospace !important;
     }
     :global(code type) {
       color: #b9f6ca;
+      font-family: var(--monospace), monospace !important;
     }
     :global(code literal) {
       color: #ffd180;
+      font-family: var(--monospace), monospace !important;
     }
   }
 </style>
