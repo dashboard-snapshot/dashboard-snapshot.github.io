@@ -15,7 +15,7 @@
 <style>
   .line,
   code {
-    font-family: var(--monospace);
+    font-family: var(--monospace), monospace;
   }
   @media screen and (min-width: 951px) {
     /* desktop */
