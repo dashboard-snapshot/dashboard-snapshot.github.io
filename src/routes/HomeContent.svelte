@@ -2,7 +2,10 @@
   export let goTo;
 </script>
 
-<p>This website provides technical details of dashboard snapshots.</p>
+<p>
+  This website provides technical details of dashboard snapshots. We named the
+  prototype interface <em>Philo</em> for reference purposes.
+</p>
 
 <h2>Table of Contents</h2>
 <ul>
