@@ -1,0 +1,190 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "_app/immutable/entry/app.BHLQZYpk.js",
+    "name": "entry/app",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_scheduler.BaBfSrOV.js",
+      "_index.C2GJl6B_.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js",
+      ".svelte-kit/generated/client-optimized/nodes/3.js",
+      ".svelte-kit/generated/client-optimized/nodes/4.js",
+      ".svelte-kit/generated/client-optimized/nodes/5.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.Bfn-2fzQ.js",
+    "name": "nodes/0",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.BaBfSrOV.js",
+      "_index.C2GJl6B_.js"
+    ],
+    "css": [
+      "_app/immutable/assets/0.DYrwWoYx.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.Bk7y2YaE.js",
+    "name": "nodes/1",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.BaBfSrOV.js",
+      "_index.C2GJl6B_.js",
+      "_entry.Jr3yN_Oz.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.MDCS9ZxV.js",
+    "name": "nodes/2",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.BaBfSrOV.js",
+      "_index.C2GJl6B_.js",
+      "_each.YVbQaxF5.js"
+    ],
+    "css": [
+      "_app/immutable/assets/2.BLhRbOvi.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/philo-scenario-extended.CbDbEIwh.mp4",
+      "_app/immutable/assets/philo-scenario-short.BRMbjmCs.mp4",
+      "_app/immutable/assets/philo-scenario-extended.xXImSUsj.vtt",
+      "_app/immutable/assets/philo-scenario-short.DnIYT7gR.vtt",
+      "_app/immutable/assets/curation-carousel.LEZczvkS.gif",
+      "_app/immutable/assets/curation-mini-dashboard.dcZG7yTX.png",
+      "_app/immutable/assets/curation-slideshow.CS6oGqeZ.gif",
+      "_app/immutable/assets/curation-vertical-stack.DL-u7kVc.png",
+      "_app/immutable/assets/philo-interface.CVAnovrZ.pdf"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.js": {
+    "file": "_app/immutable/nodes/3.Bj65KWKV.js",
+    "name": "nodes/3",
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.R8ovVqwX.js",
+      "_scheduler.BaBfSrOV.js",
+      "_index.C2GJl6B_.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/4.js": {
+    "file": "_app/immutable/nodes/4.CJpDVnUp.js",
+    "name": "nodes/4",
+    "src": ".svelte-kit/generated/client-optimized/nodes/4.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.BaBfSrOV.js",
+      "_index.C2GJl6B_.js",
+      "_each.YVbQaxF5.js",
+      "_entry.Jr3yN_Oz.js"
+    ],
+    "css": [
+      "_app/immutable/assets/4.DOkkq0IA.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/5.js": {
+    "file": "_app/immutable/nodes/5.BZoGnJpp.js",
+    "name": "nodes/5",
+    "src": ".svelte-kit/generated/client-optimized/nodes/5.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.R8ovVqwX.js",
+      "_scheduler.BaBfSrOV.js",
+      "_index.C2GJl6B_.js"
+    ],
+    "css": [
+      "_app/immutable/assets/5.CU6psp88.css"
+    ]
+  },
+  "_each.YVbQaxF5.js": {
+    "file": "_app/immutable/chunks/each.YVbQaxF5.js",
+    "name": "each",
+    "imports": [
+      "_index.C2GJl6B_.js",
+      "_scheduler.BaBfSrOV.js"
+    ]
+  },
+  "_entry.Jr3yN_Oz.js": {
+    "file": "_app/immutable/chunks/entry.Jr3yN_Oz.js",
+    "name": "entry",
+    "imports": [
+      "_scheduler.BaBfSrOV.js"
+    ]
+  },
+  "_index.C2GJl6B_.js": {
+    "file": "_app/immutable/chunks/index.C2GJl6B_.js",
+    "name": "index",
+    "imports": [
+      "_scheduler.BaBfSrOV.js"
+    ]
+  },
+  "_index.R8ovVqwX.js": {
+    "file": "_app/immutable/chunks/index.R8ovVqwX.js",
+    "name": "index"
+  },
+  "_scheduler.BaBfSrOV.js": {
+    "file": "_app/immutable/chunks/scheduler.BaBfSrOV.js",
+    "name": "scheduler"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "_app/immutable/entry/start.DFe2UWDZ.js",
+    "name": "entry/start",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_entry.Jr3yN_Oz.js"
+    ]
+  },
+  "src/lib/images/curation-carousel.gif": {
+    "file": "_app/immutable/assets/curation-carousel.LEZczvkS.gif",
+    "src": "src/lib/images/curation-carousel.gif"
+  },
+  "src/lib/images/curation-mini-dashboard.png": {
+    "file": "_app/immutable/assets/curation-mini-dashboard.dcZG7yTX.png",
+    "src": "src/lib/images/curation-mini-dashboard.png"
+  },
+  "src/lib/images/curation-slideshow.gif": {
+    "file": "_app/immutable/assets/curation-slideshow.CS6oGqeZ.gif",
+    "src": "src/lib/images/curation-slideshow.gif"
+  },
+  "src/lib/images/curation-vertical-stack.png": {
+    "file": "_app/immutable/assets/curation-vertical-stack.DL-u7kVc.png",
+    "src": "src/lib/images/curation-vertical-stack.png"
+  },
+  "src/lib/images/philo-interface.pdf": {
+    "file": "_app/immutable/assets/philo-interface.CVAnovrZ.pdf",
+    "src": "src/lib/images/philo-interface.pdf"
+  },
+  "src/lib/images/philo-scenario-extended.mp4": {
+    "file": "_app/immutable/assets/philo-scenario-extended.CbDbEIwh.mp4",
+    "src": "src/lib/images/philo-scenario-extended.mp4"
+  },
+  "src/lib/images/philo-scenario-extended.vtt": {
+    "file": "_app/immutable/assets/philo-scenario-extended.xXImSUsj.vtt",
+    "src": "src/lib/images/philo-scenario-extended.vtt"
+  },
+  "src/lib/images/philo-scenario-short.mp4": {
+    "file": "_app/immutable/assets/philo-scenario-short.BRMbjmCs.mp4",
+    "src": "src/lib/images/philo-scenario-short.mp4"
+  },
+  "src/lib/images/philo-scenario-short.vtt": {
+    "file": "_app/immutable/assets/philo-scenario-short.DnIYT7gR.vtt",
+    "src": "src/lib/images/philo-scenario-short.vtt"
+  }
+}

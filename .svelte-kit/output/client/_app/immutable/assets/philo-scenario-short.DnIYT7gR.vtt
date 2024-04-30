@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.840 --> 00:00:04.790
+Philo is a prototype system that supports
+authoring and sharing dashboard snapshots
+
+2
+00:00:04.790 --> 00:00:06.540
+on collaboration platforms.
+
+3
+00:00:06.540 --> 00:00:11.340
+This video describes a sales department of
+an organization and its regional teams.
+
+4
+00:00:11.340 --> 00:00:15.160
+There are three main collaboration platform
+channels and six characters for this video
+
+5
+00:00:15.160 --> 00:00:16.160
+demo.
+
+6
+00:00:16.160 --> 00:00:20.450
+The sales-regional-reps channel is for communication
+between the headquarter’s sales department
+
+7
+00:00:20.450 --> 00:00:22.090
+and regional teams.
+
+8
+00:00:22.090 --> 00:00:24.190
+Chris and Jamie are members of this channel.
+
+9
+00:00:24.190 --> 00:00:27.510
+Jamie is a data scientist, and Chris is a
+national sales manager.
+
+10
+00:00:27.510 --> 00:00:30.340
+Jamie reports to Chris.
+
+11
+00:00:30.340 --> 00:00:33.630
+The sales-us-west channel is for the US WEST
+regional sales team.
+
+12
+00:00:33.630 --> 00:00:36.260
+Alice, Brian, and Laura are members of this
+channel.
+
+13
+00:00:36.260 --> 00:00:38.670
+Alice is the sales representative for U.S.
+West.
+
+14
+00:00:38.670 --> 00:00:44.090
+Brian and Laura are regional sales managers,
+and they report to Alice.
+
+15
+00:00:44.090 --> 00:00:47.550
+The sales-us-east channel is for the US EAST
+regional sales team.
+
+16
+00:00:47.550 --> 00:00:51.660
+Paul, the sales representative for U.S. East,
+is a member of this channel.
+
+17
+00:00:51.660 --> 00:00:57.270
+Alice and Paul, as regional representatives,
+subscribe to the sales-regional-reps channel.
+
+18
+00:00:57.270 --> 00:01:00.590
+This story starts from the collaboration platform
+of this organization.
+
+19
+00:01:00.590 --> 00:01:05.190
+Let’s look at the chat between Chris and
+Jamie in the sales-regional-reps channel.
+
+20
+00:01:05.190 --> 00:01:09.439
+After exploring the national sales dashboard,
+Chris wants to share the last month’s sales
+
+21
+00:01:09.439 --> 00:01:10.829
+data with regional representatives.
+
+22
+00:01:10.829 --> 00:01:12.700
+So, he pings Jamie.
+
+23
+00:01:12.700 --> 00:01:20.209
+Jamie, the data scientist, gets this message
+and responds to Chris.
+
+24
+00:01:20.209 --> 00:01:23.299
+Chris informs Jamie about the monthly sales
+goal.
+
+25
+00:01:23.299 --> 00:01:28.630
+Now, let’s look at Jamie’s dashboard application.
+
+26
+00:01:28.630 --> 00:01:33.159
+This dashboard application is meant to emulate
+Tableau Desktop, CRMA, etc.
+
+27
+00:01:33.159 --> 00:01:36.950
+This dashboard contains data for the sales
+and profit for Jamie’s organization.
+
+28
+00:01:36.950 --> 00:01:39.389
+On the top row, there are seven KPI measures.
+
+29
+00:01:39.389 --> 00:01:43.179
+On the middle row, there are a U.S. map for
+profit ratio
+
+30
+00:01:43.179 --> 00:01:45.859
+and a table for sales and profit by region.
+
+31
+00:01:45.859 --> 00:01:49.789
+On the bottom row, there are monthly data
+by segment and category.
+
+32
+00:01:49.789 --> 00:01:52.560
+Jamie wants to include the sales measure in
+the snapshot,
+
+33
+00:01:52.560 --> 00:01:55.429
+so she clicks the snapshot button from the
+relevant cell.
+
+34
+00:01:55.429 --> 00:01:58.889
+This opens a component authoring interface.
+
+35
+00:01:58.889 --> 00:02:01.989
+Jamie first sets the time frame of this snapshot
+component.
+
+36
+00:02:01.989 --> 00:02:07.319
+Then, she sets the time range or interval
+as 1 month and the start date as March 1st,
+
+37
+00:02:07.319 --> 00:02:08.319
+2022.
+
+38
+00:02:08.319 --> 00:02:12.190
+As this component will be shared with the
+regional representatives, Jamie wants to add
+
+39
+00:02:12.190 --> 00:02:13.659
+a breakdown for the regions.
+
+40
+00:02:13.659 --> 00:02:18.590
+Because Chris told her about the sales goal,
+she chooses a template that can include it.
+
+41
+00:02:18.590 --> 00:02:24.489
+This template also generates a short text
+message for the data.
+
+42
+00:02:24.489 --> 00:02:30.209
+This template allows Jamie to enter the goal
+value and the name of the goal.
+
+43
+00:02:30.209 --> 00:02:34.180
+In the same way, Jamie creates a snapshot
+component for the Profit measure for March
+
+44
+00:02:34.180 --> 00:02:40.299
+2022, with the region breakdown using a simple
+bar template.
+
+45
+00:02:40.299 --> 00:02:44.599
+Jamie wants to include a map in the snapshot,
+so she clicks the snapshot button for the
+
+46
+00:02:44.599 --> 00:02:45.599
+map.
+
+47
+00:02:45.599 --> 00:02:46.900
+Jamie sets the same timeframe.
+
+48
+00:02:46.900 --> 00:02:52.489
+In this case, the breakdown for States has
+been already loaded.
+
+49
+00:02:52.489 --> 00:02:55.739
+Jamie finds out that there are missing data
+points in some states.
+
+50
+00:02:55.739 --> 00:03:00.120
+Thus, she adds a caption and annotation for
+those parts to call out an action to those
+
+51
+00:03:00.120 --> 00:03:01.690
+responsible.
+
+52
+00:03:01.690 --> 00:03:05.340
+Jamie remembered that people often ask her
+for per-category views,
+
+53
+00:03:05.340 --> 00:03:12.360
+So, Jamie adds an interactive filter by product
+category to save her time.
+
+54
+00:03:12.360 --> 00:03:14.200
+Going back to the dashboard application,
+
+55
+00:03:14.200 --> 00:03:17.930
+Jamie sees her snapshot components are listed
+in the snapshot panel.
+
+56
+00:03:17.930 --> 00:03:21.920
+To compose the components Jamie has created,
+she clicks the “compose and export” button
+
+57
+00:03:21.920 --> 00:03:23.769
+in the snapshot panel.
+
+58
+00:03:23.769 --> 00:03:31.129
+This opens the snapshot composing and exporting
+interface.
+
+59
+00:03:31.129 --> 00:03:34.620
+Jamie chooses a carousel layout to avoid a
+lengthy post
+
+60
+00:03:34.620 --> 00:03:41.520
+Then, Jamie sets a channel to export the snapshot,
+and she allows others to share the snapshot
+
+61
+00:03:41.520 --> 00:03:46.189
+in different channels so that the sales representatives
+can share with their teammates.
+
+62
+00:03:46.189 --> 00:03:48.620
+Jamie also sets the freshness of her snapshot.
+
+63
+00:03:48.620 --> 00:03:52.569
+To do so, she infers the freshness from the
+components, and sets the exact date based
+
+64
+00:03:52.569 --> 00:03:53.769
+on that.
+
+65
+00:03:53.769 --> 00:03:57.950
+She also allows others to retrieve an updated
+version of this snapshot.
+
+66
+00:03:57.950 --> 00:04:01.360
+As she has found that there are some missing
+points, she marks the dataset as incomplete.
+
+67
+00:04:01.360 --> 00:04:08.129
+Then, Jamie adds a short message along with
+the snapshot.
+
+68
+00:04:08.129 --> 00:04:11.090
+Lastly she clicks the export button, and confirms
+it.
+
+69
+00:04:11.090 --> 00:04:18.220
+Chris, Jamie’s manager, sees the snapshot
+in the sales-regional-reps channel.
+
+70
+00:04:18.220 --> 00:04:22.650
+This collaboration platform is meant to emulate
+applications like Slack and Teams.
+
+71
+00:04:22.650 --> 00:04:25.660
+Chris quickly browses the snapshot.
+
+72
+00:04:25.660 --> 00:04:28.740
+About a month later, the snapshots are no
+longer fresh.
+
+73
+00:04:28.740 --> 00:04:33.590
+Chris is also curious about the new data,
+so he goes to the sales-regional-reps channel.
+
+74
+00:04:33.590 --> 00:04:38.000
+Chris discovers the overall sales snapshot
+is indicated no longer fresh, so he retrieves
+
+75
+00:04:38.000 --> 00:04:41.139
+a new one.
+
+76
+00:04:41.139 --> 00:04:48.000
+Jamie, as the owner of the snapshots, checks
+My Snapshot Home to see how much her snapshots
+
+77
+00:04:48.000 --> 00:04:49.630
+get spread.
+
+78
+00:04:49.630 --> 00:04:54.780
+She checks who has seen the snapshot, and
+finds Paul, the East region representative,
+
+79
+00:04:54.780 --> 00:04:56.190
+has not seen the snapshot yet.
+
+80
+00:04:56.190 --> 00:04:59.069
+So, Jamie goes to the sales-regional-reps
+channel,
+
+81
+00:04:59.069 --> 00:05:01.880
+And pings Paul to see the snapshot.
+
+82
+00:05:01.880 --> 00:05:05.230
+Once getting the notification, Paul goes to
+the sales-regional-reps channel using his
+
+83
+00:05:05.230 --> 00:05:06.230
+mobile device.
+
+84
+00:05:06.230 --> 00:05:10.550
+Paul then checks the snapshot and confirms
+it to Jamie.
+
+85
+00:05:10.550 --> 00:05:11.800
+This is the end of the story.
+
+86
+00:05:11.800 --> 00:05:15.750
+To summarize, Philo supports creating dashboard
+snapshots, sharing them on a collaboration
+
+87
+00:05:15.750 --> 00:05:18.060
+platform, and finding telemetry information.
+
