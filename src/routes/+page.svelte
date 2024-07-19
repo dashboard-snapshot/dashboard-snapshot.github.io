@@ -79,7 +79,9 @@
 </div>
 
 <footer>
-	<div>&copy; Anonymous 2024</div>
+	<div>
+		Made by <a href="https://hyeok.me">Hyeok Kim</a>.
+	</div>
 </footer>
 
 <style>
